@@ -1,6 +1,7 @@
 # Ex-01 : To-create-a-web-Portfolio-CV-using-HTML-CSS
 ## Aim:-
 To create a web Portfolio CV using HTML CSS
+## Algorithm:-
 ### Step 1:
 index.html: The main HTML file.
 ### Step 2:
