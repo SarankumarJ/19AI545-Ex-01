@@ -1,4 +1,4 @@
-# Ex-08 To create a web Portfolio CV using HTML CSS
+# Ex-01 To create a web Portfolio CV using HTML CSS
 ## Aim:-
 To create a web Portfolio CV using HTML CSS
 ## Algorithm:-
