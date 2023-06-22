@@ -1,4 +1,4 @@
-# Ex-01 : To-create-a-web-Portfolio-CV-using-HTML-CSS
+# Ex-08 To create a web Portfolio CV using HTML CSS
 ## Aim:-
 To create a web Portfolio CV using HTML CSS
 ## Algorithm:-
@@ -15,6 +15,8 @@ Style the portfolio using CSS
 ### Step 6:
 Publish your portfolio
 ## Program:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ### Index.html
 ```html
 <!--==================== HEADER ====================-->
